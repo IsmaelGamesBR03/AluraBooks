@@ -1,0 +1,11 @@
+:root {
+    --cor-de-fundo: rgb(200, 200, 200);
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+.cabeçalho {
+    background-color: white;
+}
