@@ -1,3 +1,23 @@
+@media screen and (min-width: 1024px) {
+
+    .tópicos_titulo {
+        font-size: 24px;
+    }
+
+    .tópicos_link {
+        font-size: 24px;
+    }
+
+    
+}
+
+@media screen and (min-width: 1728px) {
+
+    .tópicos {
+        padding: 3em 3vw;
+    }
+}
+
 .tópicos {
     background: var(--azul-degrade);
     text-align: center;
